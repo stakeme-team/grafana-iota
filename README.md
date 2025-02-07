@@ -1,4 +1,6 @@
-# Iota Tools 
+![iota-dashboard png](https://github.com/user-attachments/assets/48fe2ff0-1dc6-4c9f-8d8b-fa95a732a0f8)
+# Iota Tools
+
 ### grafana dashboard + node exporter
 
 In this repository, you will find tools and a simple guide to set up Grafana and Node Exporter for monitoring Iota validator.
